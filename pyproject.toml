@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bball_scraper"
+version = "0.0.1"
+authors = [
+    {name = "Gary Guo", email = "garyg.5712@gmail.com"},
+]
+description = "Package to scrape basketball reference"
+requires-python = ">=3.7"
+dependencies = [
+    "requests",
+    "bs4",
+    "pandas",
+    "numpy"
+]
+
+[tool.setuptools]
+packages = ["bball_scraper"]
