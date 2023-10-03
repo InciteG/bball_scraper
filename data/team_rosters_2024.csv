@@ -1,0 +1,605 @@
+player,pos,height,weight,birth_date,years_experience,player_url,player_code,team_code,season
+De'Andre Hunter,F,6-8,225,"December 2, 1997",4,/players/h/huntede01.html,huntede01,ATL,2024
+Jarkel Joiner,G,6-1,180,"May 20, 1999",R,/players/j/joineja01.html,joineja01,ATL,2024
+Keaton Wallace,G,6-4,195,"February 26, 1999",R,/players/w/wallake01.html,wallake01,ATL,2024
+Trent Forrest  (TW),G,6-4,210,"June 12, 1998",3,/players/f/forretr01.html,forretr01,ATL,2024
+Wesley Matthews,G,6-4,220,"October 14, 1986",14,/players/m/matthwe02.html,matthwe02,ATL,2024
+Seth Lundy  (TW),G-F,6-6,220,"April 2, 2000",R,/players/l/lundyse01.html,lundyse01,ATL,2024
+Miles Norris  (TW),F,6-10,220,"April 15, 2000",R,/players/n/norrimi01.html,norrimi01,ATL,2024
+Kobe Bufkin,G,6-4,195,"September 21, 2003",R,/players/b/bufkiko01.html,bufkiko01,ATL,2024
+Mouhamed Gueye,F,6-11,210,"November 9, 2002",R,/players/g/gueyemo02.html,gueyemo02,ATL,2024
+Bogdan Bogdanović,G,6-6,220,"August 18, 1992",6,/players/b/bogdabo01.html,bogdabo01,ATL,2024
+Dejounte Murray,G,6-4,180,"September 19, 1996",6,/players/m/murrade01.html,murrade01,ATL,2024
+Bruno Fernando,F,6-9,240,"August 15, 1998",4,/players/f/fernabr01.html,fernabr01,ATL,2024
+Patty Mills,G,6-1,180,"August 11, 1988",14,/players/m/millspa02.html,millspa02,ATL,2024
+AJ Griffin,F,6-6,222,"August 25, 2003",1,/players/g/griffaj01.html,griffaj01,ATL,2024
+Garrison Mathews,G,6-5,215,"October 24, 1996",4,/players/m/mathega01.html,mathega01,ATL,2024
+Clint Capela,C,6-10,240,"May 18, 1994",9,/players/c/capelca01.html,capelca01,ATL,2024
+Trae Young,G,6-1,164,"September 19, 1998",5,/players/y/youngtr01.html,youngtr01,ATL,2024
+Jalen Johnson,F,6-9,220,"December 18, 2001",2,/players/j/johnsja05.html,johnsja05,ATL,2024
+Saddiq Bey,F,6-7,215,"April 9, 1999",3,/players/b/beysa01.html,beysa01,ATL,2024
+Onyeka Okongwu,F,6-8,235,"December 11, 2000",3,/players/o/okongon01.html,okongon01,ATL,2024
+Oshae Brissett,F,6-7,210,"June 20, 1998",4,/players/b/brissos01.html,brissos01,BOS,2024
+DJ Steward,G,6-2,163,"October 2, 2001",R,/players/s/stewadj01.html,stewadj01,BOS,2024
+Lamar Stevens,F,6-6,230,"July 9, 1997",3,/players/s/stevela01.html,stevela01,BOS,2024
+Neemias Queta  (TW),C,7-0,245,"July 13, 1999",2,/players/q/quetane01.html,quetane01,BOS,2024
+Svi Mykhailiuk,G-F,6-7,205,"June 10, 1997",5,/players/m/mykhasv01.html,mykhasv01,BOS,2024
+Jay Scrubb  (TW),G-F,6-5,220,"September 1, 2000",3,/players/s/scrubja01.html,scrubja01,BOS,2024
+Dalano Banton,G-F,6-9,204,"November 7, 1999",2,/players/b/bantoda01.html,bantoda01,BOS,2024
+JD Davison  (TW),G,6-3,195,"October 3, 2002",1,/players/d/davisjd01.html,davisjd01,BOS,2024
+Jordan Walsh,G-F,6-7,205,"March 3, 2004",R,/players/w/walshjo01.html,walshjo01,BOS,2024
+Kristaps Porziņģis,F-C,7-3,240,"August 2, 1995",7,/players/p/porzikr01.html,porzikr01,BOS,2024
+Al Horford,C-F,6-9,240,"June 3, 1986",16,/players/h/horfoal01.html,horfoal01,BOS,2024
+Sam Hauser,F,6-8,215,"December 8, 1997",2,/players/h/hausesa01.html,hausesa01,BOS,2024
+Luke Kornet,C-F,7-2,250,"July 15, 1995",6,/players/k/kornelu01.html,kornelu01,BOS,2024
+Jrue Holiday,G,6-3,205,"June 12, 1990",14,/players/h/holidjr01.html,holidjr01,BOS,2024
+Derrick White,G,6-4,190,"July 2, 1994",6,/players/w/whitede01.html,whitede01,BOS,2024
+Jayson Tatum,F,6-8,210,"March 3, 1998",6,/players/t/tatumja01.html,tatumja01,BOS,2024
+Payton Pritchard,G,6-1,195,"January 28, 1998",3,/players/p/pritcpa01.html,pritcpa01,BOS,2024
+Jaylen Brown,F-G,6-6,223,"October 24, 1996",7,/players/b/brownja02.html,brownja02,BOS,2024
+Cameron Johnson,F,6-8,210,"March 3, 1996",4,/players/j/johnsca02.html,johnsca02,BRK,2024
+Harry Giles,F-C,6-11,240,"April 22, 1998",3,/players/g/gilesha01.html,gilesha01,BRK,2024
+Trendon Watford,F,6-9,240,"November 9, 2000",2,/players/w/watfotr01.html,watfotr01,BRK,2024
+Darius Bazley,F,6-8,208,"June 12, 2000",4,/players/b/bazleda01.html,bazleda01,BRK,2024
+Armoni Brooks  (TW),G,6-3,195,"June 5, 1998",2,/players/b/brookar01.html,brookar01,BRK,2024
+Dariq Whitehead,F,6-7,220,"August 1, 2004",R,/players/w/whiteda01.html,whiteda01,BRK,2024
+Lonnie Walker IV,G,6-4,204,"December 14, 1998",5,/players/w/walkelo01.html,walkelo01,BRK,2024
+Noah Clowney,F,6-10,210,"July 14, 2004",R,/players/c/clownno01.html,clownno01,BRK,2024
+Dennis Smith Jr.,G,6-2,205,"November 25, 1997",6,/players/s/smithde03.html,smithde03,BRK,2024
+Ben Simmons,G-F,6-10,240,"July 20, 1996",5,/players/s/simmobe01.html,simmobe01,BRK,2024
+Jalen Wilson  (TW),F,6-8,225,"November 4, 2000",R,/players/w/wilsoja03.html,wilsoja03,BRK,2024
+Nic Claxton,C,6-11,215,"April 17, 1999",4,/players/c/claxtni01.html,claxtni01,BRK,2024
+Dorian Finney-Smith,F,6-7,220,"May 4, 1993",7,/players/f/finnedo01.html,finnedo01,BRK,2024
+Mikal Bridges,F-G,6-6,209,"August 30, 1996",5,/players/b/bridgmi01.html,bridgmi01,BRK,2024
+Cam Thomas,G,6-4,210,"October 13, 2001",2,/players/t/thomaca02.html,thomaca02,BRK,2024
+Spencer Dinwiddie,G,6-5,215,"April 6, 1993",9,/players/d/dinwisp01.html,dinwisp01,BRK,2024
+Day'Ron Sharpe,C,6-11,265,"November 6, 2001",2,/players/s/sharpda01.html,sharpda01,BRK,2024
+Royce O'Neale,F,6-4,226,"June 5, 1993",6,/players/o/onealro01.html,onealro01,BRK,2024
+Julian Phillips,F,6-8,198,"November 5, 2003",R,/players/p/phillju01.html,phillju01,CHI,2024
+Henri Drell,G,6-9,187,"April 25, 2000",R,/players/d/drellhe01.html,drellhe01,CHI,2024
+Maxwell Heidegger,G,6-3,180,"June 5, 1997",R,/players/h/heidema01.html,heidema01,CHI,2024
+Quenton Jackson,G,6-5,175,"September 15, 1998",1,/players/j/jacksqu01.html,jacksqu01,CHI,2024
+Terry Taylor,G-F,6-5,230,"September 23, 1999",2,/players/t/taylote01.html,taylote01,CHI,2024
+Onuralp Bitim  (TW),F,6-6,215,"March 31, 1999",R,/players/b/bitimon01.html,bitimon01,CHI,2024
+Ayo Dosunmu,G,6-5,200,"January 17, 2000",2,/players/d/dosunay01.html,dosunay01,CHI,2024
+Torrey Craig,G-F,6-7,221,"December 19, 1990",6,/players/c/craigto01.html,craigto01,CHI,2024
+Jevon Carter,G,6-1,200,"September 14, 1995",5,/players/c/carteje01.html,carteje01,CHI,2024
+Adama Sanogo  (TW),F,6-9,245,"February 12, 2002",R,/players/s/sanogad01.html,sanogad01,CHI,2024
+Patrick Williams,F,6-7,215,"August 26, 2001",3,/players/w/willipa01.html,willipa01,CHI,2024
+Coby White,G,6-5,195,"February 16, 2000",4,/players/w/whiteco01.html,whiteco01,CHI,2024
+Nikola Vučević,C,6-10,260,"October 24, 1990",12,/players/v/vucevni01.html,vucevni01,CHI,2024
+Carlik Jones,G,6-1,185,"December 23, 1997",2,/players/j/jonesca03.html,jonesca03,CHI,2024
+Zach LaVine,G-F,6-5,200,"March 10, 1995",9,/players/l/lavinza01.html,lavinza01,CHI,2024
+Dalen Terry,G,6-7,195,"July 12, 2002",1,/players/t/terryda01.html,terryda01,CHI,2024
+Andre Drummond,C,6-10,279,"August 10, 1993",11,/players/d/drumman01.html,drumman01,CHI,2024
+DeMar DeRozan,G-F,6-6,220,"August 7, 1989",14,/players/d/derozde01.html,derozde01,CHI,2024
+Alex Caruso,G,6-4,186,"February 28, 1994",6,/players/c/carusal01.html,carusal01,CHI,2024
+Lonzo Ball,G,6-6,190,"October 27, 1997",5,/players/b/balllo01.html,balllo01,CHI,2024
+Nick Smith Jr.,G,6-5,185,"April 18, 2004",R,/players/s/smithni01.html,smithni01,CHO,2024
+Théo Maledon  (TW),G,6-4,175,"June 12, 2001",3,/players/m/maledth01.html,maledth01,CHO,2024
+Edmond Sumner,G,6-4,196,"December 31, 1995",5,/players/s/sumneed01.html,sumneed01,CHO,2024
+R.J. Hunter,G,6-5,185,"October 24, 1993",4,/players/h/hunterj01.html,hunterj01,CHO,2024
+Nathan Mensah,F,6-8,230,"April 9, 1998",R,/players/m/mensana01.html,mensana01,CHO,2024
+P.J. Washington,F,6-7,230,"August 23, 1998",4,/players/w/washipj01.html,washipj01,CHO,2024
+Frank Ntilikina,G,6-4,200,"July 28, 1998",6,/players/n/ntilila01.html,ntilila01,CHO,2024
+Leaky Black  (TW),F,6-9,205,"June 14, 1999",R,/players/b/blackle01.html,blackle01,CHO,2024
+Amari Bailey  (TW),G,6-5,185,"February 17, 2004",R,/players/b/baileam01.html,baileam01,CHO,2024
+Miles Bridges,G-F,6-6,225,"March 21, 1998",4,/players/b/bridgmi02.html,bridgmi02,CHO,2024
+Brandon Miller,F-G,6-9,201,"November 22, 2002",R,/players/m/millebr02.html,millebr02,CHO,2024
+Gordon Hayward,F-G,6-7,225,"March 23, 1990",13,/players/h/haywago01.html,haywago01,CHO,2024
+Nick Richards,F-C,7-0,245,"November 29, 1997",3,/players/r/richani01.html,richani01,CHO,2024
+Bryce McGowens,G-F,6-7,179,"November 8, 2002",1,/players/m/mcgowbr01.html,mcgowbr01,CHO,2024
+Cody Martin,G-F,6-5,205,"September 28, 1995",4,/players/m/martico01.html,martico01,CHO,2024
+Mark Williams,C,7-1,241,"December 16, 2001",1,/players/w/willima07.html,willima07,CHO,2024
+Terry Rozier,G,6-1,190,"March 17, 1994",8,/players/r/roziete01.html,roziete01,CHO,2024
+JT Thor,F,6-10,205,"August 26, 2002",2,/players/t/thorjt01.html,thorjt01,CHO,2024
+Kai Jones,F-C,6-11,218,"January 19, 2001",2,/players/j/joneska01.html,joneska01,CHO,2024
+James Bouknight,G,6-5,190,"September 18, 2000",2,/players/b/bouknja01.html,bouknja01,CHO,2024
+LaMelo Ball,G,6-7,180,"August 22, 2001",3,/players/b/ballla01.html,ballla01,CHO,2024
+Isaiah Mobley  (TW),F,6-10,240,"September 24, 1999",1,/players/m/mobleis01.html,mobleis01,CLE,2024
+Zhaire Smith,G,6-3,205,"June 4, 1999",2,/players/s/smithzh01.html,smithzh01,CLE,2024
+Tristan Thompson,F-C,6-9,254,"March 13, 1991",12,/players/t/thomptr01.html,thomptr01,CLE,2024
+Sharife Cooper,G,6-1,180,"June 11, 2001",1,/players/c/coopesh01.html,coopesh01,CLE,2024
+Pete Nance,F,6-11,230,"February 19, 2000",R,/players/n/nancepe01.html,nancepe01,CLE,2024
+Justin Powell,G,6-6,197,"May 9, 2001",R,/players/p/powelju01.html,powelju01,CLE,2024
+Emoni Bates  (TW),G,6-10,170,"January 28, 2004",R,/players/b/batesem01.html,batesem01,CLE,2024
+Ty Jerome,G,6-5,195,"July 8, 1997",4,/players/j/jeromty01.html,jeromty01,CLE,2024
+Caris LeVert,G-F,6-6,205,"August 25, 1994",7,/players/l/leverca01.html,leverca01,CLE,2024
+Georges Niang,F,6-7,230,"June 17, 1993",7,/players/n/niangge01.html,niangge01,CLE,2024
+Max Strus,G,6-5,215,"March 28, 1996",4,/players/s/strusma01.html,strusma01,CLE,2024
+Isaac Okoro,G-F,6-5,225,"January 26, 2001",3,/players/o/okorois01.html,okorois01,CLE,2024
+Craig Porter Jr.  (TW),G,6-2,186,"February 26, 2000",R,/players/p/portecr01.html,portecr01,CLE,2024
+Sam Merrill,G,6-4,205,"May 15, 1996",3,/players/m/merrisa01.html,merrisa01,CLE,2024
+Dean Wade,F,6-9,228,"November 20, 1996",4,/players/w/wadede01.html,wadede01,CLE,2024
+Ricky Rubio,G,6-2,190,"October 21, 1990",12,/players/r/rubiori01.html,rubiori01,CLE,2024
+Darius Garland,G,6-1,192,"January 26, 2000",4,/players/g/garlada01.html,garlada01,CLE,2024
+Damian Jones,F-C,6-11,245,"June 30, 1995",7,/players/j/jonesda03.html,jonesda03,CLE,2024
+Jarrett Allen,C-F,6-11,243,"April 21, 1998",6,/players/a/allenja01.html,allenja01,CLE,2024
+Evan Mobley,F-C,7-0,215,"June 18, 2001",2,/players/m/mobleev01.html,mobleev01,CLE,2024
+Donovan Mitchell,G,6-1,215,"September 7, 1996",6,/players/m/mitchdo01.html,mitchdo01,CLE,2024
+Dante Exum,G,6-5,214,"July 13, 1995",6,/players/e/exumda01.html,exumda01,DAL,2024
+Dexter Dennis,G,6-5,210,"February 9, 1999",R,/players/d/dennide01.html,dennide01,DAL,2024
+Markieff Morris,F,6-9,245,"September 2, 1989",12,/players/m/morrima02.html,morrima02,DAL,2024
+Derrick Jones Jr.,F,6-5,210,"February 15, 1997",7,/players/j/jonesde02.html,jonesde02,DAL,2024
+Jordan Walker,G,5-11,170,"August 11, 1999",R,/players/w/walkejo01.html,walkejo01,DAL,2024
+Joe Wieskamp,G,6-6,212,"August 23, 1999",2,/players/w/wieskjo01.html,wieskjo01,DAL,2024
+Greg Brown III,F,6-9,205,"September 1, 2001",2,/players/b/browngr01.html,browngr01,DAL,2024
+Seth Curry,G,6-2,185,"August 23, 1990",9,/players/c/curryse01.html,curryse01,DAL,2024
+Mike Miles Jr.  (TW),G,6-2,205,"August 24, 2002",R,/players/m/milesmi01.html,milesmi01,DAL,2024
+Olivier-Maxence Prosper,F,6-8,230,"July 3, 2002",R,/players/p/prospol01.html,prospol01,DAL,2024
+Josh Green,G-F,6-5,200,"November 16, 2000",3,/players/g/greenjo02.html,greenjo02,DAL,2024
+Grant Williams,F,6-6,236,"November 30, 1998",4,/players/w/willigr01.html,willigr01,DAL,2024
+Dwight Powell,F-C,6-10,240,"July 20, 1991",9,/players/p/poweldw01.html,poweldw01,DAL,2024
+Dereck Lively II,C,7-1,230,"February 12, 2004",R,/players/l/livelde01.html,livelde01,DAL,2024
+Kyrie Irving,G,6-2,195,"March 23, 1992",12,/players/i/irvinky01.html,irvinky01,DAL,2024
+Maxi Kleber,F,6-10,240,"January 29, 1992",6,/players/k/klebima01.html,klebima01,DAL,2024
+Jaden Hardy,G,6-4,198,"July 5, 2002",1,/players/h/hardyja02.html,hardyja02,DAL,2024
+Tim Hardaway Jr.,G,6-5,205,"March 16, 1992",10,/players/h/hardati02.html,hardati02,DAL,2024
+Luka Dončić,G-F,6-7,230,"February 28, 1999",5,/players/d/doncilu01.html,doncilu01,DAL,2024
+Richaun Holmes,C-F,6-10,235,"October 15, 1993",8,/players/h/holmeri01.html,holmeri01,DAL,2024
+Julian Strawther,F,6-7,205,"April 18, 2002",R,/players/s/strawju01.html,strawju01,DEN,2024
+Souley Boum,G,6-3,175,"January 26, 1999",R,/players/b/boumso01.html,boumso01,DEN,2024
+DeAndre Jordan,C,6-11,265,"July 21, 1988",15,/players/j/jordade01.html,jordade01,DEN,2024
+Reggie Jackson,G,6-2,208,"April 16, 1990",12,/players/j/jacksre01.html,jacksre01,DEN,2024
+Collin Gillespie  (TW),G,6-3,195,"June 25, 1999",R,/players/g/gilleco01.html,gilleco01,DEN,2024
+Andrew Funk,G,6-5,200,"September 21, 1999",R,/players/f/funkan01.html,funkan01,DEN,2024
+Armaan Franklin,G,6-4,200,"November 17, 2000",R,/players/f/frankar01.html,frankar01,DEN,2024
+Jay Huff  (TW),F-C,7-1,240,"August 25, 1998",2,/players/h/huffja01.html,huffja01,DEN,2024
+Braxton Key  (TW),F,6-8,230,"February 14, 1997",2,/players/k/keybr01.html,keybr01,DEN,2024
+Justin Holiday,F,6-6,180,"April 5, 1989",10,/players/h/holidju01.html,holidju01,DEN,2024
+Jalen Pickett,G,6-4,209,"October 22, 1999",R,/players/p/pickeja02.html,pickeja02,DEN,2024
+Jamal Murray,G,6-4,215,"February 23, 1997",6,/players/m/murraja01.html,murraja01,DEN,2024
+Hunter Tyson,F,6-8,215,"June 13, 2000",R,/players/t/tysonhu01.html,tysonhu01,DEN,2024
+Kentavious Caldwell-Pope,G,6-5,204,"February 18, 1993",10,/players/c/caldwke01.html,caldwke01,DEN,2024
+Nikola Jokić,C-F,6-11,284,"February 19, 1995",8,/players/j/jokicni01.html,jokicni01,DEN,2024
+Vlatko Čančar,F,6-8,236,"April 10, 1997",4,/players/c/cancavl01.html,cancavl01,DEN,2024
+Peyton Watson,G-F,6-8,200,"September 11, 2002",1,/players/w/watsope01.html,watsope01,DEN,2024
+Christian Braun,G,6-7,218,"April 17, 2001",1,/players/b/braunch01.html,braunch01,DEN,2024
+Michael Porter Jr.,F,6-10,218,"June 29, 1998",4,/players/p/portemi01.html,portemi01,DEN,2024
+Aaron Gordon,F,6-8,235,"September 16, 1995",9,/players/g/gordoaa01.html,gordoaa01,DEN,2024
+Zeke Nnaji,F,6-9,240,"January 9, 2001",3,/players/n/nnajize01.html,nnajize01,DEN,2024
+Jalen Duren,C,6-10,250,"November 18, 2003",1,/players/d/durenja01.html,durenja01,DET,2024
+Jontay Porter,F-C,6-11,240,"November 15, 1999",1,/players/p/portejo01.html,portejo01,DET,2024
+Zavier Simpson,G,6-0,190,"February 11, 1997",1,/players/s/simpsza01.html,simpsza01,DET,2024
+Stanley Umude,G,6-6,210,"April 12, 1999",1,/players/u/umudest01.html,umudest01,DET,2024
+Buddy Boeheim,G,6-6,205,"November 11, 1999",1,/players/b/boehebu01.html,boehebu01,DET,2024
+Tosan Evbuomwan,F,6-8,219,"February 16, 2001",R,/players/e/evbuoto01.html,evbuoto01,DET,2024
+Marcus Sasser,G,6-2,195,"September 21, 2000",R,/players/s/sassema01.html,sassema01,DET,2024
+Jared Rhoden  (TW),G,6-6,210,"August 27, 1999",1,/players/r/rhodeja01.html,rhodeja01,DET,2024
+Malcolm Cazalon  (TW),G,6-6,212,"August 27, 2001",R,/players/c/cazalma01.html,cazalma01,DET,2024
+Ausar Thompson,G,6-7,215,"January 30, 2003",R,/players/t/thompau01.html,thompau01,DET,2024
+Bojan Bogdanović,G-F,6-7,226,"April 18, 1989",9,/players/b/bogdabo02.html,bogdabo02,DET,2024
+Joe Harris,G,6-6,220,"September 6, 1991",9,/players/h/harrijo01.html,harrijo01,DET,2024
+Marvin Bagley III,F-C,6-11,235,"March 14, 1999",5,/players/b/baglema01.html,baglema01,DET,2024
+Jaden Ivey,G,6-4,195,"February 13, 2002",1,/players/i/iveyja01.html,iveyja01,DET,2024
+Alec Burks,G,6-6,214,"July 20, 1991",12,/players/b/burksal01.html,burksal01,DET,2024
+Cade Cunningham,G,6-6,220,"September 25, 2001",2,/players/c/cunnica01.html,cunnica01,DET,2024
+Isaiah Livers,F,6-7,230,"July 28, 1998",2,/players/l/liveris01.html,liveris01,DET,2024
+Monte Morris,G,6-2,183,"June 27, 1995",6,/players/m/morrimo01.html,morrimo01,DET,2024
+Isaiah Stewart,F-C,6-8,250,"May 22, 2001",3,/players/s/stewais01.html,stewais01,DET,2024
+Killian Hayes,G,6-5,195,"July 27, 2001",3,/players/h/hayeski01.html,hayeski01,DET,2024
+James Wiseman,C,7-0,240,"March 31, 2001",2,/players/w/wisemja01.html,wisemja01,DET,2024
+Cory Joseph,G,6-3,200,"August 20, 1991",12,/players/j/josepco01.html,josepco01,GSW,2024
+Jerome Robinson  (TW),G,6-4,190,"February 22, 1997",3,/players/r/robinje01.html,robinje01,GSW,2024
+Rudy Gay,F,6-8,250,"August 17, 1986",17,/players/g/gayru01.html,gayru01,GSW,2024
+Donovan Williams,F,6-6,190,"September 6, 2001",1,/players/w/willido02.html,willido02,GSW,2024
+Rodney McGruder,G,6-4,205,"July 29, 1991",7,/players/m/mcgruro01.html,mcgruro01,GSW,2024
+Ken Davis,G,6-0,175,"September 12, 1948",R,/players/d/daviske01.html,daviske01,GSW,2024
+Javan Johnson,F,6-6,198,"January 5, 1999",R,/players/j/johnsja07.html,johnsja07,GSW,2024
+Usman Garuba  (TW),F,6-8,220,"March 9, 2002",2,/players/g/garubus01.html,garubus01,GSW,2024
+Lester Quinones  (TW),G,6-5,208,"November 16, 2000",1,/players/q/quinole01.html,quinole01,GSW,2024
+Dario Šarić,F-C,6-10,225,"April 8, 1994",6,/players/s/saricda01.html,saricda01,GSW,2024
+Draymond Green,F,6-6,230,"March 4, 1990",11,/players/g/greendr01.html,greendr01,GSW,2024
+Klay Thompson,G-F,6-6,215,"February 8, 1990",10,/players/t/thompkl01.html,thompkl01,GSW,2024
+Trayce Jackson-Davis,F,6-9,245,"February 22, 2000",R,/players/j/jackstr02.html,jackstr02,GSW,2024
+Brandin Podziemski,G,6-5,205,"February 25, 2003",R,/players/p/podzibr01.html,podzibr01,GSW,2024
+Andrew Wiggins,F-G,6-7,197,"February 23, 1995",9,/players/w/wiggian01.html,wiggian01,GSW,2024
+Kevon Looney,F-C,6-9,222,"February 6, 1996",8,/players/l/looneke01.html,looneke01,GSW,2024
+Gary Payton II,G,6-3,190,"December 1, 1992",7,/players/p/paytoga02.html,paytoga02,GSW,2024
+Moses Moody,G,6-6,205,"May 31, 2002",2,/players/m/moodymo01.html,moodymo01,GSW,2024
+Stephen Curry,G,6-2,185,"March 14, 1988",14,/players/c/curryst01.html,curryst01,GSW,2024
+Chris Paul,G,6-0,175,"May 6, 1985",18,/players/p/paulch01.html,paulch01,GSW,2024
+Jonathan Kuminga,F,6-8,210,"October 6, 2002",2,/players/k/kuminjo01.html,kuminjo01,GSW,2024
+Jeff Green,F,6-8,235,"August 28, 1986",15,/players/g/greenje02.html,greenje02,HOU,2024
+Boban Marjanović,C,7-3,290,"August 15, 1988",8,/players/m/marjabo01.html,marjabo01,HOU,2024
+Nate Hinton,G,6-5,210,"June 8, 1999",2,/players/h/hintona01.html,hintona01,HOU,2024
+Jeenathan Williams,G,6-5,205,"February 12, 1999",1,/players/w/willije02.html,willije02,HOU,2024
+Matthew Mayer,G-F,6-9,225,"September 23, 1999",R,/players/m/mayerma01.html,mayerma01,HOU,2024
+Jermaine Samuels  (TW),F,6-7,230,"November 13, 1998",R,/players/s/samueje01.html,samueje01,HOU,2024
+Aaron Holiday,G,6-0,185,"September 30, 1996",5,/players/h/holidaa01.html,holidaa01,HOU,2024
+Dillon Brooks,F-G,6-7,225,"January 22, 1996",6,/players/b/brookdi01.html,brookdi01,HOU,2024
+Fred VanVleet,G,6-1,197,"February 25, 1994",7,/players/v/vanvlfr01.html,vanvlfr01,HOU,2024
+Jock Landale,C,6-11,256,"October 25, 1995",2,/players/l/landajo01.html,landajo01,HOU,2024
+Jalen Green,G,6-4,178,"February 9, 2002",2,/players/g/greenja05.html,greenja05,HOU,2024
+Amen Thompson,G,6-7,209,"January 30, 2003",R,/players/t/thompam01.html,thompam01,HOU,2024
+Cam Whitmore,F,6-7,232,"July 8, 2004",R,/players/w/whitmca01.html,whitmca01,HOU,2024
+Darius Days  (TW),F,6-7,245,"October 20, 1999",1,/players/d/daysda01.html,daysda01,HOU,2024
+Trevor Hudgins  (TW),G,6-0,180,"March 23, 1999",1,/players/h/hudgitr01.html,hudgitr01,HOU,2024
+Kevin Porter Jr.,G,6-4,203,"May 4, 2000",4,/players/p/porteke02.html,porteke02,HOU,2024
+Jae'Sean Tate,F,6-4,230,"October 28, 1995",3,/players/t/tateja01.html,tateja01,HOU,2024
+Jabari Smith Jr.,F,6-10,220,"May 13, 2003",1,/players/s/smithja05.html,smithja05,HOU,2024
+Tari Eason,F,6-8,216,"May 10, 2001",1,/players/e/easonta01.html,easonta01,HOU,2024
+Alperen Şengün,C-F,6-9,235,"July 25, 2002",2,/players/s/sengual01.html,sengual01,HOU,2024
+Andrew Nembhard,G,6-5,193,"January 16, 2000",1,/players/n/nembhan01.html,nembhan01,IND,2024
+Kendall Brown  (TW),G-F,6-8,205,"May 11, 2003",1,/players/b/brownke03.html,brownke03,IND,2024
+Bruce Brown,G-F,6-4,202,"August 15, 1996",5,/players/b/brownbr01.html,brownbr01,IND,2024
+Ben Sheppard,G,6-6,190,"July 16, 2001",R,/players/s/sheppbe01.html,sheppbe01,IND,2024
+Oscar Tshiebwe  (TW),F,6-9,260,"November 27, 1999",R,/players/t/tshieos01.html,tshieos01,IND,2024
+Isaiah Wong  (TW),G,6-4,184,"January 28, 2001",R,/players/w/wongis01.html,wongis01,IND,2024
+Jarace Walker,F,6-8,240,"September 4, 2003",R,/players/w/walkeja02.html,walkeja02,IND,2024
+Myles Turner,C-F,6-11,250,"March 24, 1996",8,/players/t/turnemy01.html,turnemy01,IND,2024
+Jordan Nwora,F,6-8,225,"September 9, 1998",3,/players/n/nworajo01.html,nworajo01,IND,2024
+Buddy Hield,G-F,6-4,220,"December 17, 1992",7,/players/h/hieldbu01.html,hieldbu01,IND,2024
+Jalen Smith,F,6-10,215,"March 16, 2000",3,/players/s/smithja04.html,smithja04,IND,2024
+Bennedict Mathurin,G-F,6-6,210,"June 19, 2002",1,/players/m/mathube01.html,mathube01,IND,2024
+Isaiah Jackson,C-F,6-10,206,"January 10, 2002",2,/players/j/jacksis01.html,jacksis01,IND,2024
+T.J. McConnell,G,6-1,190,"March 25, 1992",8,/players/m/mccontj01.html,mccontj01,IND,2024
+Daniel Theis,C,6-8,245,"April 4, 1992",6,/players/t/theisda01.html,theisda01,IND,2024
+Tyrese Haliburton,G,6-5,185,"February 29, 2000",3,/players/h/halibty01.html,halibty01,IND,2024
+Aaron Nesmith,G-F,6-5,215,"October 16, 1999",3,/players/n/nesmiaa01.html,nesmiaa01,IND,2024
+Obi Toppin,F,6-9,220,"March 4, 1998",3,/players/t/toppiob01.html,toppiob01,IND,2024
+Nicolas Batum,F-G,6-8,230,"December 14, 1988",15,/players/b/batumni01.html,batumni01,LAC,2024
+Joshua Primo  (TW),G,6-6,190,"December 24, 2002",2,/players/p/primojo01.html,primojo01,LAC,2024
+Bryson Williams,F,6-8,240,"April 25, 1998",R,/players/w/willibr04.html,willibr04,LAC,2024
+Brodric Thomas,G,6-5,185,"January 28, 1997",2,/players/t/thomabr01.html,thomabr01,LAC,2024
+Jordan Miller,G,6-7,195,"January 23, 2000",R,/players/m/millejo02.html,millejo02,LAC,2024
+Moussa Diabaté  (TW),F,6-11,210,"January 21, 2002",1,/players/d/diabamo01.html,diabamo01,LAC,2024
+Mason Plumlee,C-F,6-11,254,"March 5, 1990",10,/players/p/plumlma01.html,plumlma01,LAC,2024
+Russell Westbrook,G,6-3,200,"November 12, 1988",15,/players/w/westbru01.html,westbru01,LAC,2024
+Kobe Brown,G-F,6-7,250,"January 1, 2000",R,/players/b/brownko01.html,brownko01,LAC,2024
+Amir Coffey,G,6-7,210,"June 17, 1997",4,/players/c/coffeam01.html,coffeam01,LAC,2024
+Marcus Morris,F,6-8,218,"September 2, 1989",12,/players/m/morrima03.html,morrima03,LAC,2024
+Ivica Zubac,C,7-0,240,"March 18, 1997",7,/players/z/zubaciv01.html,zubaciv01,LAC,2024
+Robert Covington,F-C,6-7,209,"December 14, 1990",10,/players/c/covinro01.html,covinro01,LAC,2024
+Terance Mann,G-F,6-5,215,"October 18, 1996",4,/players/m/mannte01.html,mannte01,LAC,2024
+Kawhi Leonard,F,6-7,225,"June 29, 1991",11,/players/l/leonaka01.html,leonaka01,LAC,2024
+Brandon Boston Jr.,G-F,6-7,185,"November 28, 2001",2,/players/b/bostobr01.html,bostobr01,LAC,2024
+Bones Hyland,G,6-3,173,"September 14, 2000",2,/players/h/hylanbo01.html,hylanbo01,LAC,2024
+Norman Powell,G,6-3,215,"May 25, 1993",8,/players/p/powelno01.html,powelno01,LAC,2024
+Paul George,F,6-8,220,"May 2, 1990",13,/players/g/georgpa01.html,georgpa01,LAC,2024
+Kenyon Martin Jr.,F,6-6,215,"January 6, 2001",3,/players/m/martike04.html,martike04,LAC,2024
+Jaxson Hayes,F,6-11,220,"May 23, 2000",4,/players/h/hayesja02.html,hayesja02,LAL,2024
+Damion Baugh,G,6-4,194,"August 3, 2000",R,/players/b/baughda01.html,baughda01,LAL,2024
+Scotty Pippen Jr.,G,6-3,185,"November 10, 2000",1,/players/p/pippesc02.html,pippesc02,LAL,2024
+Vincent Valerio-Bodon,F,6-9,205,"May 2, 2001",R,/players/v/valervi01.html,valervi01,LAL,2024
+Christian Wood,F,6-10,214,"September 27, 1995",7,/players/w/woodch01.html,woodch01,LAL,2024
+Alex Fudge  (TW),F,6-8,200,"May 6, 2003",R,/players/f/fudgeal01.html,fudgeal01,LAL,2024
+Jalen Hood-Schifino,G,6-6,215,"June 19, 2003",R,/players/h/hoodsja01.html,hoodsja01,LAL,2024
+Maxwell Lewis,F,6-7,195,"July 27, 2002",R,/players/l/lewisma05.html,lewisma05,LAL,2024
+D'Angelo Russell,G,6-4,193,"February 23, 1996",8,/players/r/russeda01.html,russeda01,LAL,2024
+Gabe Vincent,G,6-3,195,"June 14, 1996",4,/players/v/vincega01.html,vincega01,LAL,2024
+Anthony Davis,F-C,6-10,253,"March 11, 1993",11,/players/d/davisan02.html,davisan02,LAL,2024
+Austin Reaves,G,6-5,206,"May 29, 1998",2,/players/r/reaveau01.html,reaveau01,LAL,2024
+Taurean Prince,F,6-7,218,"March 22, 1994",7,/players/p/princta02.html,princta02,LAL,2024
+Rui Hachimura,F,6-8,230,"February 8, 1998",4,/players/h/hachiru01.html,hachiru01,LAL,2024
+Cam Reddish,F,6-8,218,"September 1, 1999",4,/players/r/reddica01.html,reddica01,LAL,2024
+Colin Castleton  (TW),F,6-11,250,"May 25, 2000",R,/players/c/castlco01.html,castlco01,LAL,2024
+D'Moi Hodge  (TW),G,6-4,188,"December 20, 1998",R,/players/h/hodgedm01.html,hodgedm01,LAL,2024
+LeBron James,F-G,6-9,250,"December 30, 1984",20,/players/j/jamesle01.html,jamesle01,LAL,2024
+Max Christie,G,6-6,190,"February 10, 2003",1,/players/c/chrisma02.html,chrisma02,LAL,2024
+Jarred Vanderbilt,F,6-9,214,"April 3, 1999",5,/players/v/vandeja01.html,vandeja01,LAL,2024
+David Roddy,F,6-6,255,"March 27, 2001",1,/players/r/roddyda01.html,roddyda01,MEM,2024
+Matthew Hurt,F,6-9,235,"April 20, 2000",R,/players/h/hurtma01.html,hurtma01,MEM,2024
+Mychal Mulder,G-F,6-3,184,"June 12, 1994",3,/players/m/muldemy01.html,muldemy01,MEM,2024
+Gregory Jackson II  (TW),F,6-9,215,"December 17, 2004",R,/players/j/jacksgg01.html,jacksgg01,MEM,2024
+Shaquille Harrison,G,6-4,190,"October 6, 1993",6,/players/h/harrish01.html,harrish01,MEM,2024
+Derrick Rose,G,6-3,200,"October 4, 1988",14,/players/r/rosede01.html,rosede01,MEM,2024
+Kenneth Lofton Jr.,F,6-7,275,"August 14, 2002",1,/players/l/loftoke01.html,loftoke01,MEM,2024
+Brandon Clarke,F,6-8,215,"September 19, 1996",4,/players/c/clarkbr01.html,clarkbr01,MEM,2024
+Steven Adams,C,6-11,265,"July 20, 1993",10,/players/a/adamsst01.html,adamsst01,MEM,2024
+Ja Morant,G,6-3,174,"August 10, 1999",4,/players/m/moranja01.html,moranja01,MEM,2024
+John Konchar,G,6-5,210,"March 22, 1996",4,/players/k/konchjo01.html,konchjo01,MEM,2024
+Jake LaRavia,F,6-8,235,"November 3, 2001",1,/players/l/laravja01.html,laravja01,MEM,2024
+Jaren Jackson Jr.,F,6-11,242,"September 15, 1999",5,/players/j/jacksja02.html,jacksja02,MEM,2024
+Marcus Smart,G,6-3,220,"March 6, 1994",9,/players/s/smartma01.html,smartma01,MEM,2024
+Santi Aldama,F,6-11,224,"January 10, 2001",2,/players/a/aldamsa01.html,aldamsa01,MEM,2024
+Ziaire Williams,F,6-8,215,"September 12, 2001",2,/players/w/willizi02.html,willizi02,MEM,2024
+Luke Kennard,G,6-5,206,"June 24, 1996",6,/players/k/kennalu01.html,kennalu01,MEM,2024
+Xavier Tillman Sr.,F,6-8,245,"January 12, 1999",3,/players/t/tillmxa01.html,tillmxa01,MEM,2024
+Desmond Bane,G,6-5,215,"June 25, 1998",3,/players/b/banede01.html,banede01,MEM,2024
+Thomas Bryant,C,6-10,248,"July 31, 1997",6,/players/b/bryanth01.html,bryanth01,MIA,2024
+R.J. Hampton  (TW),G,6-4,175,"February 7, 2001",3,/players/h/hamptrj01.html,hamptrj01,MIA,2024
+Cheick Diallo,F,6-8,219,"September 13, 1996",5,/players/d/diallch01.html,diallch01,MIA,2024
+Alondes Williams,G,6-5,210,"June 19, 1999",1,/players/w/willial06.html,willial06,MIA,2024
+Justin Champagnie,F,6-6,200,"June 29, 2001",2,/players/c/champju01.html,champju01,MIA,2024
+Drew Peterson,G,6-9,205,"November 9, 1999",R,/players/p/peterdr01.html,peterdr01,MIA,2024
+Cole Swider,F,6-9,220,"May 8, 1999",1,/players/s/swideco01.html,swideco01,MIA,2024
+Jamal Cain  (TW),F,6-7,191,"March 20, 1999",1,/players/c/cainja01.html,cainja01,MIA,2024
+Kevin Love,F,6-8,251,"September 7, 1988",15,/players/l/loveke01.html,loveke01,MIA,2024
+Jaime Jaquez Jr.,G-F,6-7,225,"February 18, 2001",R,/players/j/jaqueja01.html,jaqueja01,MIA,2024
+Orlando Robinson,F,7-0,235,"July 10, 2000",1,/players/r/robinor01.html,robinor01,MIA,2024
+Bam Adebayo,C-F,6-9,255,"July 18, 1997",6,/players/a/adebaba01.html,adebaba01,MIA,2024
+Josh Richardson,G,6-5,200,"September 15, 1993",8,/players/r/richajo01.html,richajo01,MIA,2024
+Dru Smith  (TW),G,6-3,203,"December 30, 1997",1,/players/s/smithdr01.html,smithdr01,MIA,2024
+Tyler Herro,G,6-5,195,"January 20, 2000",4,/players/h/herroty01.html,herroty01,MIA,2024
+Caleb Martin,F,6-5,205,"September 28, 1995",4,/players/m/martica02.html,martica02,MIA,2024
+Nikola Jović,G-F,6-10,209,"June 9, 2003",1,/players/j/jovicni01.html,jovicni01,MIA,2024
+Haywood Highsmith,F,6-7,220,"December 9, 1996",3,/players/h/highsha01.html,highsha01,MIA,2024
+Jimmy Butler,F-G,6-7,230,"September 14, 1989",12,/players/b/butleji01.html,butleji01,MIA,2024
+Duncan Robinson,G-F,6-7,215,"April 22, 1994",5,/players/r/robindu01.html,robindu01,MIA,2024
+Kyle Lowry,G,6-0,196,"March 25, 1986",17,/players/l/lowryky01.html,lowryky01,MIA,2024
+Andre Jackson Jr.,G,6-6,210,"November 13, 2001",R,/players/j/jacksan01.html,jacksan01,MIL,2024
+Cameron Payne,G,6-1,183,"August 8, 1994",8,/players/p/payneca01.html,payneca01,MIL,2024
+Marques Bolden,C,6-10,249,"April 17, 1998",2,/players/b/boldema01.html,boldema01,MIL,2024
+TyTy Washington Jr.  (TW),G,6-3,197,"November 15, 2001",1,/players/w/washity02.html,washity02,MIL,2024
+Thanasis Antetokounmpo,F,6-6,219,"July 18, 1992",5,/players/a/antetth01.html,antetth01,MIL,2024
+Jazian Gortman,G,6-2,184,"April 14, 2003",R,/players/g/gortmja01.html,gortmja01,MIL,2024
+Jae Crowder,F,6-6,235,"July 6, 1990",11,/players/c/crowdja01.html,crowdja01,MIL,2024
+Chris Livingston,F,6-6,220,"October 15, 2003",R,/players/l/livinch01.html,livinch01,MIL,2024
+A.J. Green,G,6-4,200,"September 27, 1999",1,/players/g/greenaj01.html,greenaj01,MIL,2024
+Giannis Antetokounmpo,F-G,7-0,242,"December 6, 1994",10,/players/a/antetgi01.html,antetgi01,MIL,2024
+Khris Middleton,F-G,6-7,222,"August 12, 1991",11,/players/m/middlkh01.html,middlkh01,MIL,2024
+Brook Lopez,C,7-0,282,"April 1, 1988",15,/players/l/lopezbr01.html,lopezbr01,MIL,2024
+Malik Beasley,G,6-4,187,"November 26, 1996",7,/players/b/beaslma01.html,beaslma01,MIL,2024
+Robin Lopez,C,7-0,281,"April 1, 1988",15,/players/l/lopezro01.html,lopezro01,MIL,2024
+Pat Connaughton,G,6-5,209,"January 6, 1993",8,/players/c/connapa01.html,connapa01,MIL,2024
+MarJon Beauchamp,G,6-6,199,"October 12, 2000",1,/players/b/beaucma01.html,beaucma01,MIL,2024
+Bobby Portis,F,6-10,250,"February 10, 1995",8,/players/p/portibo01.html,portibo01,MIL,2024
+Luka Garza  (TW),F-C,6-11,235,"December 27, 1998",2,/players/g/garzalu01.html,garzalu01,MIN,2024
+Trevor Keels,G,6-5,221,"August 26, 2003",1,/players/k/keelstr01.html,keelstr01,MIN,2024
+Matt Ryan  (TW),F,6-7,215,"April 17, 1997",2,/players/r/ryanma01.html,ryanma01,MIN,2024
+Tyrese Martin,G,6-6,215,"March 7, 1999",1,/players/m/martity01.html,martity01,MIN,2024
+Daishen Nix,G,6-5,224,"February 13, 2002",2,/players/n/nixda01.html,nixda01,MIN,2024
+Vit Krejci,G,6-8,195,"June 19, 2000",2,/players/k/krejcvi01.html,krejcvi01,MIN,2024
+Nickeil Alexander-Walker,G,6-6,205,"September 2, 1998",4,/players/a/alexani01.html,alexani01,MIN,2024
+Leonard Miller,F,6-10,210,"November 26, 2003",R,/players/m/millele01.html,millele01,MIN,2024
+Shake Milton,G,6-5,205,"September 26, 1996",5,/players/m/miltosh01.html,miltosh01,MIN,2024
+Troy Brown Jr.,G-F,6-6,215,"July 28, 1999",5,/players/b/browntr01.html,browntr01,MIN,2024
+Jaylen Clark  (TW),G,6-5,205,"October 13, 2001",R,/players/c/clarkja02.html,clarkja02,MIN,2024
+Karl-Anthony Towns,C-F,6-11,248,"November 15, 1995",8,/players/t/townska01.html,townska01,MIN,2024
+Naz Reid,F,6-9,264,"August 26, 1999",4,/players/r/reidna01.html,reidna01,MIN,2024
+Josh Minott,F,6-8,205,"November 25, 2002",1,/players/m/minotjo01.html,minotjo01,MIN,2024
+Kyle Anderson,F-G,6-9,230,"September 20, 1993",9,/players/a/anderky01.html,anderky01,MIN,2024
+Wendell Moore Jr.,G-F,6-5,213,"September 18, 2001",1,/players/m/moorewe01.html,moorewe01,MIN,2024
+Jordan McLaughlin,G,5-11,185,"April 9, 1996",4,/players/m/mclaujo01.html,mclaujo01,MIN,2024
+Mike Conley,G,6-1,175,"October 11, 1987",16,/players/c/conlemi01.html,conlemi01,MIN,2024
+Rudy Gobert,C,7-1,258,"June 26, 1992",10,/players/g/goberru01.html,goberru01,MIN,2024
+Anthony Edwards,G,6-4,225,"August 5, 2001",3,/players/e/edwaran01.html,edwaran01,MIN,2024
+Jaden McDaniels,F,6-9,185,"September 29, 2000",3,/players/m/mcdanja02.html,mcdanja02,MIN,2024
+Larry Nance Jr.,F-C,6-7,245,"January 1, 1993",8,/players/n/nancela02.html,nancela02,NOP,2024
+Malcolm Hill,F,6-6,220,"October 26, 1995",2,/players/h/hillma01.html,hillma01,NOP,2024
+Trey Jemison,C,6-11,260,"November 28, 1999",R,/players/j/jemistr01.html,jemistr01,NOP,2024
+Tevian Jones,G,6-7,197,"June 29, 2000",R,/players/j/joneste02.html,joneste02,NOP,2024
+Liam Robbins,F,7-0,250,"July 12, 1999",R,/players/r/robbili01.html,robbili01,NOP,2024
+Landers Nolley II,G-F,6-7,220,"March 5, 2000",R,/players/n/nollela01.html,nollela01,NOP,2024
+Kaiser Gates  (TW),F,6-8,217,"November 8, 1996",R,/players/g/gateska01.html,gateska01,NOP,2024
+E.J. Liddell,F,6-7,240,"December 18, 2000",R,/players/l/liddeej01.html,liddeej01,NOP,2024
+Herbert Jones,F,6-8,210,"October 6, 1998",2,/players/j/joneshe01.html,joneshe01,NOP,2024
+Cody Zeller,C-F,6-11,240,"October 5, 1992",10,/players/z/zelleco01.html,zelleco01,NOP,2024
+Jordan Hawkins,G,6-5,195,"April 29, 2002",R,/players/h/hawkijo01.html,hawkijo01,NOP,2024
+CJ McCollum,G,6-3,190,"September 19, 1991",10,/players/m/mccolcj01.html,mccolcj01,NOP,2024
+Dyson Daniels,G,6-8,199,"March 17, 2003",1,/players/d/daniedy01.html,daniedy01,NOP,2024
+Zion Williamson,F-C,6-6,284,"July 6, 2000",3,/players/w/willizi01.html,willizi01,NOP,2024
+Jose Alvarado,G,6-0,179,"April 12, 1998",2,/players/a/alvarjo01.html,alvarjo01,NOP,2024
+Jonas Valančiūnas,C,6-11,265,"May 6, 1992",11,/players/v/valanjo01.html,valanjo01,NOP,2024
+Willy Hernangómez,C,6-11,250,"May 27, 1994",7,/players/h/hernawi01.html,hernawi01,NOP,2024
+Trey Murphy III,F,6-9,206,"June 18, 2000",2,/players/m/murphtr02.html,murphtr02,NOP,2024
+Naji Marshall,F,6-7,220,"January 24, 1998",3,/players/m/marshna01.html,marshna01,NOP,2024
+Brandon Ingram,F,6-8,190,"September 2, 1997",7,/players/i/ingrabr01.html,ingrabr01,NOP,2024
+Kira Lewis Jr.,G,6-1,170,"April 6, 2001",3,/players/l/lewiski01.html,lewiski01,NOP,2024
+RJ Barrett,G-F,6-6,214,"June 14, 2000",4,/players/b/barrerj01.html,barrerj01,NYK,2024
+Ryan Arcidiacono,G,6-3,195,"March 26, 1994",6,/players/a/arcidry01.html,arcidry01,NYK,2024
+Charlie Brown Jr.,G,6-6,199,"February 2, 1997",3,/players/b/brownch02.html,brownch02,NYK,2024
+Duane Washington Jr.,G,6-3,210,"March 24, 2000",2,/players/w/washidu02.html,washidu02,NYK,2024
+Dylan Windler  (TW),G-F,6-6,196,"September 22, 1996",3,/players/w/windldy01.html,windldy01,NYK,2024
+Nathan Knight  (TW),F-C,6-10,253,"September 20, 1997",3,/players/k/knighna01.html,knighna01,NYK,2024
+Donte DiVincenzo,G,6-4,203,"January 31, 1997",5,/players/d/divindo01.html,divindo01,NYK,2024
+Jacob Toppin,F,6-9,205,"May 8, 2000",R,/players/t/toppija01.html,toppija01,NYK,2024
+Jaylen Martin  (TW),F,6-6,216,"January 28, 2004",R,/players/m/martija02.html,martija02,NYK,2024
+Isaiah Roby,F,6-8,230,"February 3, 1998",4,/players/r/robyis01.html,robyis01,NYK,2024
+DaQuan Jeffries,G-F,6-5,230,"August 30, 1997",4,/players/j/jeffrda01.html,jeffrda01,NYK,2024
+Immanuel Quickley,G,6-3,190,"June 17, 1999",3,/players/q/quickim01.html,quickim01,NYK,2024
+Isaiah Hartenstein,F,7-0,250,"May 5, 1998",5,/players/h/harteis01.html,harteis01,NYK,2024
+Jalen Brunson,G,6-2,190,"August 31, 1996",5,/players/b/brunsja01.html,brunsja01,NYK,2024
+Mitchell Robinson,C,7-0,240,"April 1, 1998",5,/players/r/robinmi01.html,robinmi01,NYK,2024
+Jericho Sims,F,6-10,245,"October 20, 1998",2,/players/s/simsje01.html,simsje01,NYK,2024
+Julius Randle,F-C,6-8,250,"November 29, 1994",9,/players/r/randlju01.html,randlju01,NYK,2024
+Josh Hart,G,6-5,215,"March 6, 1995",6,/players/h/hartjo01.html,hartjo01,NYK,2024
+Evan Fournier,G-F,6-7,205,"October 29, 1992",11,/players/f/fournev01.html,fournev01,NYK,2024
+Quentin Grimes,G,6-5,205,"May 8, 2000",2,/players/g/grimequ01.html,grimequ01,NYK,2024
+Miles McBride,G,6-2,200,"September 8, 2000",2,/players/m/mcbrimi01.html,mcbrimi01,NYK,2024
+Luguentz Dort,G,6-3,215,"April 19, 1999",4,/players/d/dortlu01.html,dortlu01,OKC,2024
+Lindy Waters III  (TW),G,6-6,215,"July 28, 1997",2,/players/w/waterli01.html,waterli01,OKC,2024
+Olivier Sarr  (TW),C,7-0,237,"February 20, 1999",2,/players/s/sarrol01.html,sarrol01,OKC,2024
+Jack White,F,6-7,225,"August 5, 1997",1,/players/w/whiteja03.html,whiteja03,OKC,2024
+Vasilije Micić,G,6-5,200,"January 13, 1994",R,/players/m/micicva01.html,micicva01,OKC,2024
+Cason Wallace,G,6-4,193,"November 7, 2003",R,/players/w/wallaca01.html,wallaca01,OKC,2024
+Keyontae Johnson  (TW),F,6-5,230,"May 24, 2000",R,/players/j/johnske08.html,johnske08,OKC,2024
+Isaiah Joe,G,6-4,165,"July 2, 1999",3,/players/j/joeis01.html,joeis01,OKC,2024
+Kenrich Williams,G-F,6-6,210,"December 2, 1994",5,/players/w/willike04.html,willike04,OKC,2024
+Jaylin Williams,F,6-10,240,"June 29, 2002",1,/players/w/willija07.html,willija07,OKC,2024
+Victor Oladipo,G,6-4,213,"May 4, 1992",10,/players/o/oladivi01.html,oladivi01,OKC,2024
+Dāvis Bertāns,F,6-10,225,"November 12, 1992",7,/players/b/bertada01.html,bertada01,OKC,2024
+Ousmane Dieng,F,6-10,216,"May 21, 2003",1,/players/d/diengou01.html,diengou01,OKC,2024
+Chet Holmgren,F-C,7-0,195,"May 1, 2002",R,/players/h/holmgch01.html,holmgch01,OKC,2024
+Jalen Williams,G,6-6,195,"April 14, 2001",1,/players/w/willija06.html,willija06,OKC,2024
+Aaron Wiggins,G,6-6,200,"January 2, 1999",2,/players/w/wiggiaa01.html,wiggiaa01,OKC,2024
+Jeremiah Robinson-Earl,F,6-9,230,"November 3, 2000",2,/players/r/robinje02.html,robinje02,OKC,2024
+Josh Giddey,G,6-8,210,"October 10, 2002",2,/players/g/giddejo01.html,giddejo01,OKC,2024
+Tre Mann,G,6-3,178,"February 3, 2001",2,/players/m/manntr01.html,manntr01,OKC,2024
+Shai Gilgeous-Alexander,G,6-6,180,"July 12, 1998",5,/players/g/gilgesh01.html,gilgesh01,OKC,2024
+Aleksej Pokusevski,F,7-0,190,"December 26, 2001",3,/players/p/pokusal01.html,pokusal01,OKC,2024
+Goga Bitadze,C,6-11,250,"July 20, 1999",4,/players/b/bitadgo01.html,bitadgo01,ORL,2024
+D.J. Wilson,F,6-10,231,"February 19, 1996",5,/players/w/wilsodj01.html,wilsodj01,ORL,2024
+Mac McClung,G,6-2,185,"January 6, 1999",2,/players/m/mccluma01.html,mccluma01,ORL,2024
+Trevelin Queen,G,6-6,190,"February 25, 1997",2,/players/q/queentr01.html,queentr01,ORL,2024
+Brandon Williams,G,6-2,190,"November 22, 1999",1,/players/w/willibr03.html,willibr03,ORL,2024
+Admiral Schofield  (TW),G-F,6-5,241,"March 30, 1997",3,/players/s/schofad01.html,schofad01,ORL,2024
+Moritz Wagner,F-C,6-11,245,"April 26, 1997",5,/players/w/wagnemo01.html,wagnemo01,ORL,2024
+Joe Ingles,F-G,6-8,220,"October 2, 1987",9,/players/i/inglejo01.html,inglejo01,ORL,2024
+Anthony Black,G,6-7,198,"January 20, 2004",R,/players/b/blackan01.html,blackan01,ORL,2024
+Jett Howard,G,6-8,215,"September 14, 2003",R,/players/h/howarje01.html,howarje01,ORL,2024
+Chuma Okeke,F,6-6,229,"August 18, 1998",3,/players/o/okekech01.html,okekech01,ORL,2024
+Gary Harris,G,6-4,210,"September 14, 1994",9,/players/h/harriga01.html,harriga01,ORL,2024
+Caleb Houstan,G-F,6-8,205,"January 9, 2003",1,/players/h/houstca01.html,houstca01,ORL,2024
+Paolo Banchero,F,6-10,250,"November 12, 2002",1,/players/b/banchpa01.html,banchpa01,ORL,2024
+Wendell Carter Jr.,C,6-10,270,"April 16, 1999",5,/players/c/cartewe01.html,cartewe01,ORL,2024
+Franz Wagner,G-F,6-9,225,"August 27, 2001",2,/players/w/wagnefr01.html,wagnefr01,ORL,2024
+Jalen Suggs,G,6-4,205,"June 3, 2001",2,/players/s/suggsja01.html,suggsja01,ORL,2024
+Jonathan Isaac,F,6-11,230,"October 3, 1997",4,/players/i/isaacjo01.html,isaacjo01,ORL,2024
+Markelle Fultz,G,6-3,209,"May 29, 1998",6,/players/f/fultzma01.html,fultzma01,ORL,2024
+Cole Anthony,G,6-2,185,"May 15, 2000",3,/players/a/anthoco01.html,anthoco01,ORL,2024
+Terquavion Smith  (TW),G,6-4,165,"December 31, 2002",R,/players/s/smithte01.html,smithte01,PHI,2024
+Kelly Oubre Jr.,F,6-7,203,"December 9, 1995",8,/players/o/oubreke01.html,oubreke01,PHI,2024
+Danny Green,G-F,6-6,215,"June 22, 1987",14,/players/g/greenda02.html,greenda02,PHI,2024
+David Duke Jr.,G,6-5,205,"October 13, 1999",2,/players/d/dukeda01.html,dukeda01,PHI,2024
+Javonte Smart,G,6-4,205,"June 3, 1999",1,/players/s/smartja01.html,smartja01,PHI,2024
+Filip Petrušev,F-C,6-11,234,"April 15, 2000",R,/players/p/petrufi01.html,petrufi01,PHI,2024
+Ąžuolas Tubelis  (TW),F,6-11,245,"March 22, 2002",R,/players/t/tubelaz01.html,tubelaz01,PHI,2024
+Montrezl Harrell,F-C,6-7,240,"January 26, 1994",8,/players/h/harremo01.html,harremo01,PHI,2024
+Paul Reed,F,6-9,210,"June 14, 1999",3,/players/r/reedpa01.html,reedpa01,PHI,2024
+Patrick Beverley,G,6-1,180,"July 12, 1988",11,/players/b/beverpa01.html,beverpa01,PHI,2024
+Mo Bamba,C,7-0,231,"May 12, 1998",5,/players/b/bambamo01.html,bambamo01,PHI,2024
+Tobias Harris,F,6-8,226,"July 15, 1992",12,/players/h/harrito02.html,harrito02,PHI,2024
+Ricky Council IV  (TW),G,6-6,205,"August 3, 2001",R,/players/c/councri01.html,councri01,PHI,2024
+Dewayne Dedmon,C,7-0,245,"August 12, 1989",10,/players/d/dedmode01.html,dedmode01,PHI,2024
+James Harden,G,6-5,220,"August 26, 1989",14,/players/h/hardeja01.html,hardeja01,PHI,2024
+Danuel House Jr.,G,6-6,220,"June 7, 1993",7,/players/h/houseda01.html,houseda01,PHI,2024
+P.J. Tucker,F,6-5,245,"May 5, 1985",12,/players/t/tuckepj01.html,tuckepj01,PHI,2024
+Joel Embiid,C,7-0,280,"March 16, 1994",7,/players/e/embiijo01.html,embiijo01,PHI,2024
+Furkan Korkmaz,G,6-7,202,"July 24, 1997",6,/players/k/korkmfu01.html,korkmfu01,PHI,2024
+Jaden Springer,G,6-4,204,"September 25, 2002",2,/players/s/sprinja01.html,sprinja01,PHI,2024
+Tyrese Maxey,G,6-2,200,"November 4, 2000",3,/players/m/maxeyty01.html,maxeyty01,PHI,2024
+De'Anthony Melton,G,6-2,200,"May 28, 1998",5,/players/m/meltode01.html,meltode01,PHI,2024
+Chimezie Metu,F-C,6-9,225,"March 22, 1997",5,/players/m/metuch01.html,metuch01,PHO,2024
+Udoka Azubuike  (TW),C,6-10,280,"September 17, 1999",3,/players/a/azubuud01.html,azubuud01,PHO,2024
+Bol Bol,F-C,7-2,220,"November 16, 1999",4,/players/b/bolbo01.html,bolbo01,PHO,2024
+Saben Lee  (TW),G,6-2,183,"June 23, 1999",3,/players/l/leesa01.html,leesa01,PHO,2024
+Josh Okogie,G,6-4,213,"September 1, 1998",5,/players/o/okogijo01.html,okogijo01,PHO,2024
+Damion Lee,G,6-5,210,"October 21, 1992",6,/players/l/leeda03.html,leeda03,PHO,2024
+Eric Gordon,G-F,6-3,215,"December 25, 1988",15,/players/g/gordoer01.html,gordoer01,PHO,2024
+Drew Eubanks,F,6-9,245,"February 1, 1997",5,/players/e/eubandr01.html,eubandr01,PHO,2024
+Keita Bates-Diop,F,6-8,229,"January 23, 1996",5,/players/b/bateske01.html,bateske01,PHO,2024
+Yuta Watanabe,F,6-9,215,"October 13, 1994",5,/players/w/watanyu01.html,watanyu01,PHO,2024
+Devin Booker,G,6-5,206,"October 30, 1996",8,/players/b/bookede01.html,bookede01,PHO,2024
+Jordan Goodwin,G,6-3,200,"October 23, 1998",2,/players/g/goodwjo01.html,goodwjo01,PHO,2024
+Ish Wainright,F,6-6,250,"September 12, 1994",2,/players/w/wainris01.html,wainris01,PHO,2024
+Nassir Little,F,6-5,220,"February 11, 2000",4,/players/l/littlna01.html,littlna01,PHO,2024
+Bradley Beal,G,6-4,207,"June 28, 1993",11,/players/b/bealbr01.html,bealbr01,PHO,2024
+Jusuf Nurkić,C,6-11,290,"August 23, 1994",9,/players/n/nurkiju01.html,nurkiju01,PHO,2024
+Grayson Allen,G,6-4,198,"October 8, 1995",5,/players/a/allengr01.html,allengr01,PHO,2024
+Kevin Durant,F-G,6-10,240,"September 29, 1988",15,/players/d/duranke01.html,duranke01,PHO,2024
+Keon Johnson,G,6-5,186,"March 10, 2002",2,/players/j/johnske07.html,johnske07,PHO,2024
+Toumani Camara,F,6-8,220,"May 8, 2000",R,/players/c/camarto01.html,camarto01,POR,2024
+Skylar Mays  (TW),G,6-4,205,"September 5, 1997",3,/players/m/mayssk01.html,mayssk01,POR,2024
+Antoine Davis,G,6-1,165,"October 3, 1998",R,/players/d/davisan03.html,davisan03,POR,2024
+Kevin Knox,F,6-7,215,"August 11, 1999",5,/players/k/knoxke01.html,knoxke01,POR,2024
+Justin Minaya,F,6-5,210,"March 26, 1999",1,/players/m/minayju01.html,minayju01,POR,2024
+Duop Reath,C,6-11,245,"June 26, 1996",R,/players/r/reathdu01.html,reathdu01,POR,2024
+Malachi Smith,G,6-4,205,"December 6, 1999",R,/players/s/smithma02.html,smithma02,POR,2024
+George Conditt IV,F-C,6-11,234,"August 22, 2000",R,/players/c/condige01.html,condige01,POR,2024
+Jerami Grant,F,6-8,210,"March 12, 1994",9,/players/g/grantje01.html,grantje01,POR,2024
+John Butler  (TW),C,7-1,175,"December 4, 2002",1,/players/b/butlejo01.html,butlejo01,POR,2024
+Matisse Thybulle,G,6-5,201,"March 4, 1997",4,/players/t/thybuma01.html,thybuma01,POR,2024
+Robert Williams,C-F,6-9,237,"October 17, 1997",5,/players/w/williro04.html,williro04,POR,2024
+Rayan Rupert,G,6-6,205,"May 31, 2004",R,/players/r/ruperra01.html,ruperra01,POR,2024
+Kris Murray,F,6-8,220,"August 19, 2000",R,/players/m/murrakr01.html,murrakr01,POR,2024
+Ibou Badji  (TW),C,7-1,240,"October 13, 2002",R,/players/b/badjiib01.html,badjiib01,POR,2024
+Scoot Henderson,G,6-2,195,"February 3, 2004",R,/players/h/hendesc01.html,hendesc01,POR,2024
+Deandre Ayton,C,6-11,250,"July 23, 1998",5,/players/a/aytonde01.html,aytonde01,POR,2024
+Jabari Walker,F,6-9,215,"July 30, 2002",1,/players/w/walkeja01.html,walkeja01,POR,2024
+Anfernee Simons,G,6-3,181,"June 8, 1999",5,/players/s/simonan01.html,simonan01,POR,2024
+Shaedon Sharpe,G,6-6,200,"May 30, 2003",1,/players/s/sharpsh01.html,sharpsh01,POR,2024
+Malcolm Brogdon,G,6-5,229,"December 11, 1992",7,/players/b/brogdma01.html,brogdma01,POR,2024
+Colby Jones,G,6-6,205,"May 28, 2002",R,/players/j/jonesco02.html,jonesco02,SAC,2024
+Jaylen Nowell,G,6-4,201,"July 9, 1999",4,/players/n/nowelja01.html,nowelja01,SAC,2024
+Jeremy Lamb,G-F,6-5,180,"May 30, 1992",10,/players/l/lambje01.html,lambje01,SAC,2024
+Deonte Burton,G,6-4,240,"January 31, 1994",3,/players/b/burtode02.html,burtode02,SAC,2024
+Chance Comanche,F-C,6-10,210,"April 14, 1996",1,/players/c/comanch01.html,comanch01,SAC,2024
+Jordan Ford  (TW),G,6-1,175,"May 26, 1998",R,/players/f/fordjo01.html,fordjo01,SAC,2024
+JaVale McGee,C,7-0,270,"January 19, 1988",15,/players/m/mcgeeja01.html,mcgeeja01,SAC,2024
+Sasha Vezenkov,F,6-9,225,"August 6, 1995",R,/players/v/vezenal01.html,vezenal01,SAC,2024
+Alex Len,C,7-0,250,"June 16, 1993",10,/players/l/lenal01.html,lenal01,SAC,2024
+Trey Lyles,F,6-9,234,"November 5, 1995",8,/players/l/lylestr01.html,lylestr01,SAC,2024
+Keon Ellis  (TW),G,6-6,175,"January 8, 2000",1,/players/e/elliske01.html,elliske01,SAC,2024
+Domantas Sabonis,C-F,6-11,240,"May 3, 1996",7,/players/s/sabondo01.html,sabondo01,SAC,2024
+Jalen Slawson  (TW),F,6-7,215,"October 22, 1999",R,/players/s/slawsja01.html,slawsja01,SAC,2024
+Harrison Barnes,F,6-8,225,"May 30, 1992",11,/players/b/barneha02.html,barneha02,SAC,2024
+Kessler Edwards,F,6-8,215,"August 9, 2000",2,/players/e/edwarke02.html,edwarke02,SAC,2024
+Malik Monk,G,6-3,200,"February 4, 1998",6,/players/m/monkma01.html,monkma01,SAC,2024
+Keegan Murray,F,6-8,215,"August 19, 2000",1,/players/m/murrake02.html,murrake02,SAC,2024
+Kevin Huerter,G,6-7,190,"August 27, 1998",5,/players/h/huertke01.html,huertke01,SAC,2024
+Chris Duarte,G,6-6,190,"June 13, 1997",2,/players/d/duartch01.html,duartch01,SAC,2024
+Davion Mitchell,G,6-2,205,"September 5, 1998",2,/players/m/mitchda01.html,mitchda01,SAC,2024
+De'Aaron Fox,G,6-3,185,"December 20, 1997",6,/players/f/foxde01.html,foxde01,SAC,2024
+Keldon Johnson,G,6-5,220,"October 11, 1999",4,/players/j/johnske04.html,johnske04,SAS,2024
+Charles Bediako,C,7-0,225,"March 10, 2002",R,/players/b/bediach01.html,bediach01,SAS,2024
+Dominick Barlow  (TW),F,6-9,221,"May 26, 2003",1,/players/b/barlodo01.html,barlodo01,SAS,2024
+Sidy Cissoko,G,6-8,200,"April 2, 2004",R,/players/c/cissosi01.html,cissosi01,SAS,2024
+Sandro Mamukelashvili,C-F,6-11,240,"May 23, 1999",2,/players/m/mamuksa01.html,mamuksa01,SAS,2024
+Tre Jones,G,6-1,185,"January 8, 2000",3,/players/j/jonestr01.html,jonestr01,SAS,2024
+Julian Champagnie,F,6-8,220,"June 29, 2001",1,/players/c/champju02.html,champju02,SAS,2024
+Sir'Jabari Rice  (TW),G,6-4,180,"December 28, 1998",R,/players/r/ricesi01.html,ricesi01,SAS,2024
+Victor Wembanyama,F-C,7-4,209,"January 4, 2004",R,/players/w/wembavi01.html,wembavi01,SAS,2024
+Charles Bassey,C,6-11,235,"October 28, 2000",2,/players/b/bassech01.html,bassech01,SAS,2024
+Cedi Osman,F,6-7,230,"April 8, 1995",6,/players/o/osmande01.html,osmande01,SAS,2024
+Malaki Branham,G,6-5,180,"May 12, 2003",1,/players/b/branhma01.html,branhma01,SAS,2024
+Jeremy Sochan,F,6-9,230,"May 20, 2003",1,/players/s/sochaje01.html,sochaje01,SAS,2024
+Blake Wesley,G,6-5,185,"March 16, 2003",1,/players/w/weslebl01.html,weslebl01,SAS,2024
+Zach Collins,C-F,6-11,250,"November 19, 1997",5,/players/c/colliza01.html,colliza01,SAS,2024
+Doug McDermott,F,6-7,225,"January 3, 1992",9,/players/m/mcderdo01.html,mcderdo01,SAS,2024
+Khem Birch,C-F,6-9,233,"September 28, 1992",6,/players/b/birchkh01.html,birchkh01,SAS,2024
+Devonte' Graham,G,6-1,195,"February 22, 1995",5,/players/g/grahade01.html,grahade01,SAS,2024
+Devin Vassell,G-F,6-5,200,"August 23, 2000",3,/players/v/vassede01.html,vassede01,SAS,2024
+Markquis Nowell  (TW),G,5-8,160,"December 25, 1999",R,/players/n/nowelma01.html,nowelma01,TOR,2024
+Makur Maker,C,6-11,235,"November 4, 2000",R,/players/m/makerma02.html,makerma02,TOR,2024
+Garrett Temple,G,6-5,195,"May 8, 1986",13,/players/t/templga01.html,templga01,TOR,2024
+Mouhamadou Gueye,F,6-9,210,"July 6, 1998",R,/players/g/gueyemo01.html,gueyemo01,TOR,2024
+Jeff Dowtin,G,6-3,185,"May 10, 1997",2,/players/d/dowtije01.html,dowtije01,TOR,2024
+Javon Freeman-Liberty  (TW),G,6-4,180,"October 20, 1999",R,/players/f/freemja01.html,freemja01,TOR,2024
+Ron Harper Jr.  (TW),G-F,6-6,245,"April 12, 2000",1,/players/h/harpero02.html,harpero02,TOR,2024
+Dennis Schröder,G,6-3,172,"September 15, 1993",10,/players/s/schrode01.html,schrode01,TOR,2024
+Jalen McDaniels,F,6-9,205,"January 31, 1998",4,/players/m/mcdanja01.html,mcdanja01,TOR,2024
+Jakob Poeltl,C,7-1,245,"October 15, 1995",7,/players/p/poeltja01.html,poeltja01,TOR,2024
+Gradey Dick,G,6-8,205,"November 20, 2003",R,/players/d/dickgr01.html,dickgr01,TOR,2024
+Pascal Siakam,F,6-9,230,"April 2, 1994",7,/players/s/siakapa01.html,siakapa01,TOR,2024
+Christian Koloko,C,7-1,230,"June 20, 2000",1,/players/k/kolokch01.html,kolokch01,TOR,2024
+Thaddeus Young,F,6-8,235,"June 21, 1988",16,/players/y/youngth01.html,youngth01,TOR,2024
+Chris Boucher,F,6-9,200,"January 11, 1993",6,/players/b/bouchch01.html,bouchch01,TOR,2024
+Otto Porter Jr.,F,6-8,198,"June 3, 1993",10,/players/p/porteot01.html,porteot01,TOR,2024
+Gary Trent Jr.,G,6-5,209,"January 18, 1999",5,/players/t/trentga02.html,trentga02,TOR,2024
+Scottie Barnes,G-F,6-9,227,"August 1, 2001",2,/players/b/barnesc01.html,barnesc01,TOR,2024
+OG Anunoby,F,6-7,232,"July 17, 1997",6,/players/a/anunoog01.html,anunoog01,TOR,2024
+Malachi Flynn,G,6-1,175,"May 10, 1998",3,/players/f/flynnma01.html,flynnma01,TOR,2024
+Precious Achiuwa,F,6-8,225,"September 19, 1999",3,/players/a/achiupr01.html,achiupr01,TOR,2024
+Luka Šamanić,F,6-10,227,"January 9, 2000",3,/players/s/samanlu01.html,samanlu01,UTA,2024
+Nick Ongenda,C,6-11,230,"September 29, 2000",R,/players/o/ongenni01.html,ongenni01,UTA,2024
+Romeo Langford,G,6-4,216,"October 25, 1999",4,/players/l/langfro01.html,langfro01,UTA,2024
+Taevion Kinsey,G,6-5,190,"March 10, 2000",R,/players/k/kinseta02.html,kinseta02,UTA,2024
+Johnny Juzang  (TW),G,6-7,215,"March 17, 2001",1,/players/j/juzanjo01.html,juzanjo01,UTA,2024
+Omer Yurtseven,C,7-0,264,"June 19, 1998",2,/players/y/yurtsom01.html,yurtsom01,UTA,2024
+Brice Sensabaugh,F,6-6,235,"October 30, 2003",R,/players/s/sensabr01.html,sensabr01,UTA,2024
+Taylor Hendricks,G,6-9,210,"November 22, 2003",R,/players/h/hendrita01.html,hendrita01,UTA,2024
+Keyonte George,G,6-4,185,"November 8, 2003",R,/players/g/georgke01.html,georgke01,UTA,2024
+Joey Hauser  (TW),F,6-9,230,"July 17, 1999",R,/players/h/hausejo01.html,hausejo01,UTA,2024
+Jordan Clarkson,G,6-4,194,"June 7, 1992",9,/players/c/clarkjo01.html,clarkjo01,UTA,2024
+Kris Dunn,G,6-3,205,"March 18, 1994",7,/players/d/dunnkr01.html,dunnkr01,UTA,2024
+Collin Sexton,G,6-1,190,"January 4, 1999",5,/players/s/sextoco01.html,sextoco01,UTA,2024
+Simone Fontecchio,F,6-8,209,"December 9, 1995",1,/players/f/fontesi01.html,fontesi01,UTA,2024
+Walker Kessler,C,7-1,245,"July 26, 2001",1,/players/k/kesslwa01.html,kesslwa01,UTA,2024
+Ochai Agbaji,G,6-5,215,"April 20, 2000",1,/players/a/agbajoc01.html,agbajoc01,UTA,2024
+Lauri Markkanen,F-C,7-0,240,"May 22, 1997",6,/players/m/markkla01.html,markkla01,UTA,2024
+Talen Horton-Tucker,G-F,6-4,234,"November 25, 2000",4,/players/h/hortota01.html,hortota01,UTA,2024
+John Collins,F,6-9,235,"September 23, 1997",6,/players/c/collijo01.html,collijo01,UTA,2024
+Kelly Olynyk,C-F,6-11,240,"April 19, 1991",10,/players/o/olynyke01.html,olynyke01,UTA,2024
+Ryan Rollins,G,6-4,180,"July 3, 2002",1,/players/r/rolliry01.html,rolliry01,WAS,2024
+Jules Bernard,F,6-7,210,"January 21, 2000",R,/players/b/bernaju01.html,bernaju01,WAS,2024
+Chase Audige,G,6-4,200,"June 29, 1999",R,/players/a/audigch01.html,audigch01,WAS,2024
+Taj Gibson,F-C,6-9,232,"June 24, 1985",14,/players/g/gibsota01.html,gibsota01,WAS,2024
+Jared Butler  (TW),G,6-3,195,"August 25, 2000",2,/players/b/butleja02.html,butleja02,WAS,2024
+Eugene Omoruyi  (TW),F,6-7,244,"February 14, 1997",2,/players/o/omorueu01.html,omorueu01,WAS,2024
+Kyle Kuzma,F,6-9,221,"July 24, 1995",6,/players/k/kuzmaky01.html,kuzmaky01,WAS,2024
+Bilal Coulibaly,F,6-6,230,"July 26, 2004",R,/players/c/coulibi01.html,coulibi01,WAS,2024
+Xavier Cooks,F,6-8,183,"August 19, 1995",1,/players/c/cooksxa01.html,cooksxa01,WAS,2024
+Jordan Poole,G,6-4,194,"June 19, 1999",4,/players/p/poolejo01.html,poolejo01,WAS,2024
+Mike Muscala,F-C,6-10,240,"July 1, 1991",10,/players/m/muscami01.html,muscami01,WAS,2024
+Deni Avdija,G-F,6-9,210,"January 3, 2001",3,/players/a/avdijde01.html,avdijde01,WAS,2024
+Danilo Gallinari,F,6-10,233,"August 8, 1988",13,/players/g/gallida01.html,gallida01,WAS,2024
+Delon Wright,G,6-5,185,"April 26, 1992",8,/players/w/wrighde01.html,wrighde01,WAS,2024
+Tyus Jones,G,6-0,196,"May 10, 1996",8,/players/j/jonesty01.html,jonesty01,WAS,2024
+Patrick Baldwin Jr.,G-F,6-9,220,"November 18, 2002",1,/players/b/baldwpa01.html,baldwpa01,WAS,2024
+Anthony Gill,F,6-7,230,"October 17, 1992",3,/players/g/gillan01.html,gillan01,WAS,2024
+Johnny Davis,G,6-5,196,"February 27, 2002",1,/players/d/davisjo06.html,davisjo06,WAS,2024
+Daniel Gafford,F,6-10,234,"October 1, 1998",4,/players/g/gaffoda01.html,gaffoda01,WAS,2024
+Landry Shamet,G,6-4,190,"March 13, 1997",5,/players/s/shamela01.html,shamela01,WAS,2024
+Corey Kispert,G-F,6-7,220,"March 3, 1999",2,/players/k/kispeco01.html,kispeco01,WAS,2024

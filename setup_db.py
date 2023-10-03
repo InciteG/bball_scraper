@@ -1,4 +1,4 @@
-from bball_scraper.var import all_seasons, core_seasons, team_codes, url_tags, current_season_year, injury_suffix
+from bball_scraper.var import all_seasons, core_seasons, team_codes, url_tags, current_season_year, injury_suffix, season_months
 from bball_scraper.main import pull_data
 from bball_scraper.logging import get_logger
 
