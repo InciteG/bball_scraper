@@ -1,13 +1,15 @@
 from bball_scraper.var import all_seasons, core_seasons, team_codes, url_tags, current_season_year, injury_suffix
 from bball_scraper.main import pull_data
+from bball_scraper.logging import get_logger
 
 from datetime import datetime
 from bs4 import BeautifulSoup as bs4
 import pandas as pd
 import prefect
 from prefect import task, Flow
+from typing import Dict, Iterable, List, Optional, Set, Tuple, Union
 
-url_build = UrlBuilder()
+log=get_logger(__name__)
 
 class setup:
     
@@ -18,21 +20,21 @@ class setup:
         self.injury_filename = 'injuries'
         self.data_store_path= data_store_path
         self.output_format = output_format
-        self.current_season = current_season_year
+        self.current_season = str(current_season_year)
         
     def run_setup(self):
-        setup_tables(table_type='injuries')
-        setup_tables(table_type='roster')
-        schedule_df = setup_tables(table_type='schedule')
+        self.setup_tables(table_type='injuries')
+        self.setup_tables(table_type='roster')
+        schedule_df = self.setup_tables(table_type='schedule')
         self.__boxscore_url_list = schedule_df.boxscore_url.values
-        setup_tables(table_type='game-basic')
+        self.setup_tables(table_type='game-basic')
     
     def run_update(self):
-        update_tables(table_type='injuries', run_type='update')
-        update_tables(table_type='roster', run_type='update')
-        schedule_df = update_tables(table_type='schedule', run_type='update')
+        self.setup_tables(table_type='injuries', run_type='update')
+        self.setup_tables(table_type='roster', run_type='update')
+        schedule_df = self.setup_tables(table_type='schedule', run_type='update')
         self.__boxscore_url_list = schedule_df.boxscore_url.values
-        update_tables(table_type='game-basic', run_type='update')
+        self.setup_tables(table_type='game-basic', run_type='update')
     
     def setup_tables( 
     self,
@@ -52,16 +54,16 @@ class setup:
         -------
         Pandas dataframe with data from the specified table.
         """
-        
+        log.info(f'Starting setup with table_type: {table_type}, run_type: {run_type}')
         if run_type =='setup':
             season_list = core_seasons
             schedule_season_list = all_seasons
         else:
-            season_list = [current_season_year]
-            schedule_season_list = [current_season_year]
-            self.roster_filename = f'team_rosters_{current_season_year}'
-            self.schedule_filename = f'schedule_{current_season_year}'
-            self.boxscores_filename =f'boxscores_{current_season_year}'
+            season_list = [str(current_season_year)]
+            schedule_season_list = [str(current_season_year)]
+            self.roster_filename = f'team_rosters_{str(current_season_year)}'
+            self.schedule_filename = f'schedule_{str(current_season_year)}'
+            self.boxscores_filename =f'boxscores_{str(current_season_year)}'
             
         
         outer_df_list = []
@@ -69,9 +71,9 @@ class setup:
             df = pull_data(table_type=table_type, suffix=injury_suffix)
             outer_df_list.append(df)
         elif table_type == 'roster':  
-            for season in core_seasons:
+            for season in season_list:
                 for team in team_codes.keys():
-                    df = pull_data(table_type=table_type, team=team,season=season)
+                    df = pull_data(table_type=table_type, team_code=team,season=season)
                     outer_df_list.append(df)
         elif table_type == 'schedule':
             for season in schedule_season_list:
@@ -99,6 +101,7 @@ class setup:
     
         outer_df = pd.concat(outer_df_list)   
         self.__output(table_type,outer_df)
+        
         return outer_df
     
     # private functions
@@ -114,8 +117,9 @@ class setup:
         
         if self.output_format=='csv':
             df.to_csv(f'{self.data_store_path}{filename}.csv',  index=False)
+            log.info(f'Saved data from {table_type} to {filename}.csv')
         else:
-            print('Output format not accepted at this time')
+            log.info(f'Output format is not accepted at this time')
 
 if __name__ == "__main__":
     setup.run_setup()

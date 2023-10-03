@@ -42,6 +42,7 @@ def pull_data(
     -------
     Dataframe object with data based on argument specifications.
     """
+    
     response = get_response(table_type=table_type,team_code=team_code,season=season,month=month,suffix=suffix)
     soup = bs(response.content, 'html.parser')
     df= parse_tables(soup,table_type)
@@ -52,6 +53,8 @@ def pull_data(
         df['season']=season
     if (suffix != None) & (table_type=='game-basic'):
         df['game_id']=response.url[-17:-5]
+    
+    log.info(f'Completed data pull with table_type: {table_type}, team_code: {team_code}, month: {month}, suffix={suffix}')
     return df
         
 def get_response( 
@@ -103,7 +106,7 @@ def get_response(
         time.sleep(3) #meet bbref rate limit of 20 hits per minute
         
         if response.status_code==200:
-            log.info(f'Succcessful page response received from: {url}')
+            # log.info(f'Succcessful page response received from: {url}')
             break
         elif response.status_code == 429: #if too many requests, wait 1 hour
             log.info(f'Status code {response.status_code} found. Trying again in one hour. Try number: {n}')

@@ -28,4 +28,5 @@ def get_logger(name: Optional[str]=None, log_level: int=logging.INFO) -> logging
     
     logging.basicConfig(format=FORMAT_TO_USE, stream=sys.stdout, level=log_level)
     logger=logging.getLogger(name)
+    logger.setLevel(logging.INFO)
     return logger
