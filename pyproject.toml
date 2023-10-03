@@ -14,7 +14,8 @@ dependencies = [
     "requests",
     "bs4",
     "pandas",
-    "numpy"
+    "numpy",
+    "prefect"
 ]
 
 [tool.setuptools]

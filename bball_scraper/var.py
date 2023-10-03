@@ -1,22 +1,32 @@
 import calendar
 from datetime import datetime
 
-#
-all_seasons = [str(i) for i in range(2014,datetime.now().year+1)]
+if datetime.today().month>=9:
+    current_season_year = datetime.today().year+1
+else:
+    current_season_year = datetime.today().year
+            
+all_seasons = [str(i) for i in range(2014,current_season_year+1)] # historical player data
 
-active_seasons = [str(i) for i in range(2018,datetime.now().year+1)]
+core_seasons = [str(i) for i in range(2018,current_season_year+1)] # rosters for build and testing period
+
+injury_suffix = '/friv/injuries.fcgi'
 
 url_tags = {
-    #league attribute tags
-    'all_schedule':['date_game','game_start_time','visitor_team_name','visitor_pts','home_team_name','home_pts','box_score_text','overtimes','attendance','arena_name'],
+    #key value is based on table id value
     
-    #team attribute tags
-    'all_roster': ['player','pos','height','weight','birth_date','years_experience'],
+    #league page attribute tags
+    'schedule':['date_game','game_start_time','visitor_team_name','visitor_pts','home_team_name',
+                    'home_pts','box_score_text','overtimes','attendance','arena_name']
     
-    'all_injuries': ['player','team_name','date_update','note'],
+    #team page attribute tags
+    , 'roster': ['player','pos','height','weight','birth_date','years_experience']
     
-    #boxscore attribute tags
-    'game-basic':['player','mp','fg','fga','fg_pct','fg3','fg3a','fg3_pct','ft','fta','ft_pct','orb','drb','trb','ast','stl','blk','tov','pf','pts','plus_minus']
+    , 'injuries': ['player','team_name','date_update','note']
+    
+    #boxscore page attribute tags
+    , 'game-basic':['player','mp','fg','fga','fg_pct','fg3','fg3a','fg3_pct','ft','fta','ft_pct','orb','drb','trb','ast','stl',
+                    'blk','tov','pf','pts','plus_minus']
 }
 
 season_months = [i.lower() for i in list(calendar.month_name)[1:]]
